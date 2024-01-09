@@ -8,3 +8,7 @@
   - FB meal type was the most preferred meal type among the different types of customers
   - More people stayed at the hotel during the week than the weekends
   - Contract customers had the highest lead time among all the customer types
+
+
+# RECOMMENDATIONS
+1. The resort hotel owner should perform a survey amongst a sample population of visitors to the areatofindout why they prefer lodging at the city hotel to the resort hotel.
