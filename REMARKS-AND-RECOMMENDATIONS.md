@@ -1,3 +1,5 @@
+# HOTEL-RESERVATIONS-ANALYSIS
+
 # OBSERVATIONS
   - The total number of visitors and reservations to both hotels are 235.0K and 119.4K with the city hotel having more visitors and reservations than the resort hotel
   - 43.0K out of 119.4K reservations were cancelled with city hotels having the highest cancellations
