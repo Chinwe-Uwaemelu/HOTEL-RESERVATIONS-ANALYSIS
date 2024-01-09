@@ -1,4 +1,5 @@
-# HOTEL-RESERVATIONS-ANALYSIS
+# OBJECTIVE
+The objective of this project is to garner insights on customer behaviour in relation to hotel reservations at two different hotels: City Hotel and Resort Hotel. The behaviour of these customers can be observed based on their interactions with various factors of the hotels including hotel type, customer type and reservation status. For this analysis, a sample dataset was used and the analysis was perform using Tableau.
 
 # OBSERVATIONS
   - The total number of visitors and reservations to both hotels are 235.0K and 119.4K with the city hotel having more visitors and reservations than the resort hotel
