@@ -1,3 +1,6 @@
+#HOTEL RESERVATIONS ANALYSIS USING TABLEAU
+[Dashboard](https://github.com/Chinwe-Uwaemelu/HOTEL-RESERVATIONS-ANALYSIS/blob/main/Dashboard.png)
+
 # OBJECTIVE
 The objective of this project is to garner insights on customer behaviour in relation to hotel reservations at two different hotels: City Hotel and Resort Hotel. The behaviour of these customers can be observed based on their interactions with various factors of the hotels including hotel type, customer type and reservation status. For this analysis, a sample dataset was used and the analysis was perform using Tableau.
 
