@@ -5,12 +5,15 @@
 - Tableau
 - GitHub
 
+## Resources
+- **Tableau Dashboard**: [View Dashboard](https://public.tableau.com/app/profile/chinwendu.uwaemelu/viz/HotelReservationsAnalysis_17043674681290/HotelReservationsAnalysis)
+
 ## Objective
-The objective of this project is to garner insights on customer behaviour in relation to hotel reservations at two different hotels: City Hotel and Resort Hotel. The behaviour of these customers can be observed based on their interactions with various factors of the hotels including hotel type, customer type and reservation status. For this analysis, a sample dataset was used and the analysis was perform using Tableau.
+The objective of this project is to garner insights on customer behaviour in relation to hotel reservations at two different hotels: City Hotel and Resort Hotel. The behaviour of these customers can be observed based on various factors including hotel type, customer type and reservation status. For this analysis, a sample dataset was used and the analysis was performed using Tableau.
 
 ## Deliverables
 - Published tableau dashboard.
-- A presentation or report summarizing your findings and recommendations.
+- A presentation or report summarizing my findings and recommendations.
 - A GitHub repository with documentation and code.
 
 ## Observations
